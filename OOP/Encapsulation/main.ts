@@ -56,5 +56,3 @@ class Cow extends Animal {
 }
 
 let dog = new Dog('Milo', 3, 'Golden Retriever', 'male')
-dog.setName = 'dito'
-console.log(dog.getName)
